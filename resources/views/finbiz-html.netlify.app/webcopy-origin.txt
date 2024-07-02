@@ -1,0 +1,2236 @@
+Uri: https://finbiz-html.netlify.app/finbiz-html/
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index.htm
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/404
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\404.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/about-us
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\about-us.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/accordion
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\accordion.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/address-box
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\address-box.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/appoinment
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\appoinment.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/css/plugins/animate.min.css
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\css\plugins\animate.min.css
+Content Type: text/css
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/css/plugins/fontawesome-5.css
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\css\plugins\fontawesome-5.css
+Content Type: text/css
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/css/plugins/swiper.min.css
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\css\plugins\swiper.min.css
+Content Type: text/css
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/css/plugins/unicons.css
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\css\plugins\unicons.css
+Content Type: text/css
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/css/style.css
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\css\style.css
+Content Type: text/css
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/css/vendor/bootstrap.min.css
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\css\vendor\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-brands-400.eot
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-brands-400.eot?
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-brands-400.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-brands-400.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-brands-400.woff
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-brands-400.woff2
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-duotone-900.eot
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-duotone-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-duotone-900.eot?
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-duotone-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-duotone-900.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-duotone-900.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-duotone-900.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-duotone-900.woff
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-duotone-900.woff
+Content Type: application/font-woff
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-duotone-900.woff2
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-light-300.eot
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-light-300.eot?
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-light-300.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-light-300.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-light-300.woff
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-light-300.woff
+Content Type: application/font-woff
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-light-300.woff2
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-regular-400.eot
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-regular-400.eot?
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-regular-400.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-regular-400.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-regular-400.woff
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-regular-400.woff2
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-solid-900.eot
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-solid-900.eot?
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-solid-900.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-solid-900.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-solid-900.woff
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/fonts/fa-solid-900.woff2
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/04.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\04.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/04.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\04.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/05.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\05.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/06.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\06.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/06.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\06.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/bg-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/call.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\call.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/05.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\05.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/06.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\06.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/about-01-sm.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\about-01-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/about-01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\about-01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/about-02-sm.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\about-02-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/about-02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\about-02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/about-03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\about-03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/about-04.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\about-04.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/icon/01.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\icon\01.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/icon/02.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\icon\02.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/icon/03.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\icon\03.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/user/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\user\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/user/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\user\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/user/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\user\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/user/04.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\user\04.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/main/user/05.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\main\user\05.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/shape/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\shape\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/shape/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\shape\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/shape/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\shape\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/shape/04.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\shape\04.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/shape/play-btn.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\shape\play-btn.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/about/sm-01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\about\sm-01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/appoinment/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\appoinment\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/appoinment/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\appoinment\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/appoinment/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\appoinment\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/appoinment/04.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\appoinment\04.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/appoinment/05.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\appoinment\05.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/appoinment/06.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\appoinment\06.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-04.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-04.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-05.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-05.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-06.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-06.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-07.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-07.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-08.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-08.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-09.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-09.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-10.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-10.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-11.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-11.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-11.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-11.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-12.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-12.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-12.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-12.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-13.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-13.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-14.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-14.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-14.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-14.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-15.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-15.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/banner-bg5.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\banner-bg5.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/img.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\img.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/it-1.webp
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\it-1.webp
+Content Type: image/webp
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/it-2.webp
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\it-2.webp
+Content Type: image/webp
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/it-3.webp
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\it-3.webp
+Content Type: image/webp
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/04.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\04.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/05.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\05.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/06.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\06.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/07.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\07.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/08.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\08.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/09.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\09.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/10.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\10.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/bg.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\bg.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/close.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\close.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/h7-banner.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\h7-banner.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/pre-title.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\pre-title.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/rectangle.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\rectangle.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/shape-h6.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\shape-h6.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/shape/shape.webp
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\shape\shape.webp
+Content Type: image/webp
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/sm-1.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\sm-1.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/banner/sm-2.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\banner\sm-2.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/bg/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\bg\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/bg/04.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\bg\04.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/bg/bg-shape-1.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\bg\bg-shape-1.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/bg/bg-shape-2.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\bg\bg-shape-2.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/05.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\05.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/06.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\06.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/07.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\07.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/08.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\08.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/09.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\09.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/10.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\10.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/11.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\11.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/12.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\12.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/13.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\13.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/14.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\14.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/15.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\15.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/16.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\16.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/17.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\17.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/18.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\18.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/19.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\19.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/20.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\20.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/21.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\21.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/22.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\22.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/bg-1.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\bg-1.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/blog-lg-1.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\blog-lg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/blog-lg-2.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\blog-lg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/blog-lg-3.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\blog-lg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/blog-lg-4.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\blog-lg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/author.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\author.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/gallery/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\gallery\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/gallery/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\gallery\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/gallery/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\gallery\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/gallery/04.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\gallery\04.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/gallery/05.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\gallery\05.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/gallery/06.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\gallery\06.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/recent-post/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\recent-post\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/recent-post/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\recent-post\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/recent-post/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\recent-post\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/details/recent-post/04.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\details\recent-post\04.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/grid/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\grid\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/grid/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\grid\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/grid/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\grid\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/grid/04.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\grid\04.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/grid/05.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\grid\05.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/grid/06.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\grid\06.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/grid/07.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\grid\07.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/grid/08.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\grid\08.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/grid/09.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\grid\09.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/blog/grid/10.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\blog\grid\10.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/breadcrumb/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\breadcrumb\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/04.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\04.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/05.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\05.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/06.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\06.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/07.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\07.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/bg-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/bg-02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\bg-02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/icon/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\icon\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/icon/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\icon\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/icon/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\icon\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/icon/shape-1.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\icon\shape-1.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-case/icon/shape-2.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-case\icon\shape-2.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/04.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\04.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/05.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\05.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/characters.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\characters.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/icon/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\icon\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/icon/01.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\icon\01.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/icon/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\icon\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/icon/02.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\icon\02.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/icon/03.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\icon\03.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/icon/04.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\icon\04.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/icon/05.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\icon\05.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/icon/bag.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\icon\bag.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/icon/box.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\icon\box.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/icon/line.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\icon\line.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/icon/setting.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\icon\setting.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/sm-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\sm-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/business-goal/team.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\business-goal\team.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/client/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\client\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/client/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\client\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/client/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\client\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/client/04.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\client\04.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/client/05.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\client\05.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/client/06.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\client\06.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/client/bg.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\client\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/shape/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\shape\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/shape/01.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\shape\01.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/shape/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\shape\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/shape/02.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\shape\02.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/shape/03.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\shape\03.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/shape/404.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\shape\404.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/contact/shape/location.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\contact\shape\location.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/counterup/bg-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\counterup\bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/counterup/icon/01.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\counterup\icon\01.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/counterup/icon/02.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\counterup\icon\02.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/counterup/icon/03.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\counterup\icon\03.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/counterup/icon/04.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\counterup\icon\04.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/counterup/icon/05.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\counterup\icon\05.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/counterup/icon/07.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\counterup\icon\07.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/counterup/icon/08.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\counterup\icon\08.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/counterup/icon/09.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\counterup\icon\09.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/counterup/icon/10.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\counterup\icon\10.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/counterup/icon/11.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\counterup\icon\11.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/counterup/icon/12.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\counterup\icon\12.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/cta/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\cta\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/cta/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\cta\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/cta/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\cta\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/cta/05.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\cta\05.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/cta/bg-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\cta\bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/faq/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\faq\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/faq/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\faq\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/faq/bg-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\faq\bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/faq/customer.webp
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\faq\customer.webp
+Content Type: image/webp
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/faq/education.webp
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\faq\education.webp
+Content Type: image/webp
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/faq/hospitality-1.webp
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\faq\hospitality-1.webp
+Content Type: image/webp
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/faq/info.webp
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\faq\info.webp
+Content Type: image/webp
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/faq/logistics.webp
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\faq\logistics.webp
+Content Type: image/webp
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/faq/shape-2.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\faq\shape-2.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/faq/shape.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\faq\shape.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/faq/steel-factory.webp
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\faq\steel-factory.webp
+Content Type: image/webp
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/fav.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\fav.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/feature/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\feature\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/feature/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\feature\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/feature/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\feature\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/feature/04.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\feature\04.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/feature/shape/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\feature\shape\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/callto-action.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\callto-action.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/footer-bg-2.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\footer-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/footer-bg-3.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\footer-bg-3.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/h1-shape/01.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\h1-shape\01.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/h1-shape/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\h1-shape\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/h1-shape/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\h1-shape\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/post/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\post\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/post/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\post\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/three-gallery/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\three-gallery\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/three-gallery/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\three-gallery\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/three-gallery/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\three-gallery\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/three-gallery/04.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\three-gallery\04.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/three-gallery/05.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\three-gallery\05.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/three-gallery/06.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\three-gallery\06.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/under-title-2.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\under-title-2.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/footer/under-title.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\footer\under-title.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/gallery/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\gallery\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/gallery/01.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\gallery\01.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/gallery/bg-vedio.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\gallery\bg-vedio.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/gallery/gallery-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\gallery\gallery-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/gallery/gallery-02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\gallery\gallery-02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/gallery/gallery-03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\gallery\gallery-03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/gallery/gallery-bg-1.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\gallery\gallery-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/gallery/icon/01.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\gallery\icon\01.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/gallery/shape.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\gallery\shape.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/icon/menu-light.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\icon\menu-light.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/icon/menu.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\icon\menu.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/logo/logo-1.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\logo\logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/logo/logo-10.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\logo\logo-10.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/logo/logo-2.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\logo\logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/logo/logo-3.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\logo\logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/logo/logo-4.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\logo\logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/logo/logo-5.1.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\logo\logo-5.1.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/logo/logo-5.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\logo\logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/logo/logo-6.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\logo\logo-6.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/logo/logo-8.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\logo\logo-8.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/logo/logo-9.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\logo\logo-9.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/logo/logo.webp
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\logo\logo.webp
+Content Type: image/webp
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/pricing/bg-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\pricing\bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/pricing/bg-02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\pricing\bg-02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/04.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\04.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/05.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\05.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/06.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\06.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/07.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\07.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/08.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\08.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/09.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\09.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/10.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\10.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/11.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\11.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/12.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\12.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/13.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\13.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/bg-lg-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\bg-lg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/bg/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\bg\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/bg/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\bg\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/bg/sm-1.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\bg\sm-1.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/d-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\d-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/d-02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\d-02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/d-03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\d-03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/icon/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\icon\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/product/icon/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\product\icon\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/04.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\04.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/07.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\07.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/08.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\08.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/09.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\09.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/10.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\10.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/11.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\11.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/12.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\12.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/13.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\13.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/14.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\14.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/15.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\15.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/16.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\16.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/17.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\17.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/17.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\17.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/18.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\18.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/19.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\19.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/20.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\20.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/21.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\21.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/bg-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/bg-02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\bg-02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/bg-03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\bg-03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/bg-04.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\bg-04.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/h2/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\h2\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/h2/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\h2\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/h2/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\h2\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/01.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\01.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/02.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\02.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/03.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\03.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/04.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\04.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/05.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\05.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/06.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\06.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/07.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\07.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/08.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\08.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/09.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\09.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/10.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\10.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/11.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\11.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/12.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\12.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/13.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\13.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/14.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\14.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/15.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\15.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/16.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\16.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/17.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\17.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/18.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\18.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/19.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\19.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/20.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\20.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/21.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\21.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/22.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\22.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/23.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\23.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/24.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\24.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/dot.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\dot.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/service-logo1.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\service-logo1.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/service-logo11.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\service-logo11.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/service-logo2.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\service-logo2.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/service-logo22.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\service-logo22.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/service-logo3.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\service-logo3.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/service-logo33.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\service-logo33.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/service-logo4.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\service-logo4.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/service-logo5.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\service-logo5.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/service-logo6.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\service-logo6.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/icon/shape-1.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\icon\shape-1.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/service/sm-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\service\sm-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/bg-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/bg-02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\bg-02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/bg-02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\bg-02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/04.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\04.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/06.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\06.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/07.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\07.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/08.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\08.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/09.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\09.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/10.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\10.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/11.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\11.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/12.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\12.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/13.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\13.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/14.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\14.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/14.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\14.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/15.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\15.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/15.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\15.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/16.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\16.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/16.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\16.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/17.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\17.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/17.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\17.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/lg-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\lg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/lg-02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\lg-02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/lg-03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\lg-03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/team/tm/team-lg.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\team\tm\team-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/04.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\04.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/07.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\07.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/08.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\08.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/09.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\09.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/10.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\10.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/10.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\10.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/11.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\11.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/13.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\13.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/14.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\14.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/15.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\15.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/bg-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/bg-02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\bg-02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/bg-03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\bg-03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/bg-04.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\bg-04.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/icon/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\icon\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/icon/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\icon\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/icon/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\icon\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/icon/logo-01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\icon\logo-01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/icon/logo-02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\icon\logo-02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/icon/logo-03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\icon\logo-03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/icon/logo-04.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\icon\logo-04.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/shape/01.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\shape\01.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/shape/02.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\shape\02.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/testimonials/shape/03.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\testimonials\shape\03.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/01.png
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\01.png
+Content Type: image/png
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/bg-01.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/bg-02.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\bg-02.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/bg-03.jpg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\bg-03.jpg
+Content Type: image/jpeg
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/01.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\01.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/02.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\02.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/03.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\03.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/04.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\04.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/05.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\05.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/06.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\06.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/07.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\07.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/08.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\08.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/09.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\09.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/10.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\10.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/11.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\11.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/12.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\12.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/goal.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\goal.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/save.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\save.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/target.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\target.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/images/working-step/icon/user.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\images\working-step\icon\user.svg
+Content Type: image/svg+xml
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/js/main.js
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/js/plugins/contact.form.js
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\js\plugins\contact.form.js
+Content Type: application/javascript
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/js/plugins/counterup.js
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\js\plugins\counterup.js
+Content Type: application/javascript
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/js/plugins/sal.min.js
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\js\plugins\sal.min.js
+Content Type: application/javascript
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/js/plugins/swiper.js
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\js\plugins\swiper.js
+Content Type: application/javascript
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/js/vendor/bootstrap.min.js
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/js/vendor/jquery.min.js
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\js\vendor\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/js/vendor/jqueryui.js
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\js\vendor\jqueryui.js
+Content Type: application/javascript
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/js/vendor/waw.js
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\js\vendor\waw.js
+Content Type: application/javascript
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/assets/js/vendor/waypoint.js
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\assets\js\vendor\waypoint.js
+Content Type: application/javascript
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/blog-details
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\blog-details.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/blog-grid
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\blog-grid.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/blog-list
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\blog-list.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/blog-quote
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\blog-quote.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/blog-slider
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\blog-slider.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/brand
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\brand.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/button
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\button.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/contact-form
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\contact-form.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/contactus
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\contactus.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/counter
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\counter.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/cta
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\cta.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/heading
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\heading.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/index-eight
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index-eight.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/index-eleven
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index-eleven.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/index-five
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index-five.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/index-four
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index-four.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/index-nine
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index-nine.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/index-seven
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index-seven.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/index-six
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index-six.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/index-ten
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index-ten.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/index-thirteen
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index-thirteen.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/index-three
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index-three.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/index-twelve
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index-twelve.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/index-two
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\index-two.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-eight
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-eight.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-eleven
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-eleven.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-five
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-five.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-four
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-four.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-nine
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-nine.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-one
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-one.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-seven
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-seven.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-six
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-six.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-ten
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-ten.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-thirteen
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-thirteen.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-three
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-three.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-twelve
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-twelve.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/onepage-two
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\onepage-two.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/our-service
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\our-service.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/portfolio-style-2
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\portfolio-style-2.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/portfolio-style-3
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\portfolio-style-3.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/portfolio-style-4
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\portfolio-style-4.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/portfolio-style-5
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\portfolio-style-5.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/price-plan
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\price-plan.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/price-plan.html
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\price-plan-1.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/pricing
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\pricing.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/progress-bar
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\progress-bar.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/project
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\project.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/project-details
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\project-details.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/service-2
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\service-2.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/service-3
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\service-3.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/service-details
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\service-details.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/tab-addon
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\tab-addon.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/team
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\team.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/team-details
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\team-details.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/team-style-2
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\team-style-2.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/team-style-3
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\team-style-3.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/team-style-4
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\team-style-4.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/team-style-5
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\team-style-5.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/testimonial
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\testimonial.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/testimonial-style-1
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\testimonial-style-1.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/typography
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\typography.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/video
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\video.html
+Content Type: text/html
+
+Uri: https://finbiz-html.netlify.app/finbiz-html/working-process
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\finbiz-html\working-process.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;400;500;600;700;800;900&display=swap
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbjKWckg.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbjKWckg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbl6Wckg.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbl6Wckg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWckg.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWckg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbouRckg.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbouRckg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRckg.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRckg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbsWRckg.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbsWRckg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbuyRckg.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbuyRckg.ttf
+Content Type: font/ttf
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.eot
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s.cdpn.io\1462889\unicons.eot
+Content Type: 
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.svg
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s.cdpn.io\1462889\unicons.svg
+Content Type: image/svg+xml
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.ttf
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s.cdpn.io\1462889\unicons.ttf
+Content Type: font/ttf
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.woff
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s.cdpn.io\1462889\unicons.woff
+Content Type: font/woff
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.woff2
+File Name: C:\Users\Ramazan\Desktop\finbiz-html.netlify.app\s.cdpn.io\1462889\unicons.woff2
+Content Type: font/woff
+
