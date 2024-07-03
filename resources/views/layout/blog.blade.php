@@ -1,33 +1,40 @@
-<section class="news-section">
-    <div class="bg bg-pattern-19"></div>
-    <div class="auto-container">
-        <div class="sec-title text-center light">
-            <span class="sub-title">@lang('front/blog.txt1')</span>
-            <h2>@lang('front/blog.txt2')</h2>
-        </div>
+<div class="rts-blog-area rts-section-gap bg-secondary">
+    <div class="container">
         <div class="row">
-            @foreach ($blog as $post)
-                <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image">
-                                <a href="{{ $post->url }}">
-                                    <img loading="lazy" src="{{ $post->getFirstMediaUrl('cover') }}"
-                                        alt="{{ $post->title }}">
-                                </a>
-                            </figure>
-                        </div>
-                        <div class="content-box border">
-                            <span class="date">{{ $post->created_at->translatedFormat('d M, Y') }}</span>
-                            <span class="post-info">@svg('fas-user-circle', 'icon-space'){{ $post->user->name }}</span>
-                            <h5 class="title"><a href="{{ $post->url }}">{{ $post->title }}</a></h5>
-                            <div class="text">{{ $post->short_description }}</div>
-                            <a href="{{ $post->url }}" class="read-more"><i>@svg('fas-long-arrow-alt-right')</i>
-                                @lang('front/blog.txt3')</a>
-                        </div>
-                    </div>
+            <div class="col-12">
+                <div class="title-area text-center">
+                    <span>Blog Posts</span>
+                    <h2 class="title">News & Updates</h2>
                 </div>
-            @endforeach
+            </div>
+        </div>
+        <div class="g-5 mt--20">
+            <div class="swiper mySwiperh1_blog">
+                <div class="swiper-wrapper">
+                    @foreach ($blog as $post)
+                        <div class="swiper-slide">
+                            <div class="single-blog-one-wrapper">
+                                <div class="thumbnail">
+                                    <img src="{{ $post->getFirstMediaUrl('cover') }}" alt="{{ $post->title }}">
+                                    <div class="blog-badge">
+                                        <span>{{ $post->created_at->translatedFormat('d M Y') }}</span>
+                                    </div>
+                                </div>
+                                <div class="blog-content">
+                                    <p><span>{{ $post->category->title ?? __('front/general.uncategorized') }} </span>/
+                                        {{ $post->user->name }}</p>
+                                    <a href='{{ $post->url }}'>
+                                        <h5 class="title">{{ $post->title }}</h5>
+                                    </a>
+                                    <a class='rts-read-more btn-primary' href='{{ $post->url }}'><i
+                                            class="far fa-arrow-right"></i>Detaylar</a>
+                                </div>
+                            </div>
+                        </div>
+                    @endforeach
+
+                </div>
+            </div>
         </div>
     </div>
-</section>
+</div>

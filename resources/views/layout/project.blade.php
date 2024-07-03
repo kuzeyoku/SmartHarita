@@ -1,31 +1,43 @@
-<section class="projects-section style-two pull-up">
-    <div class="bg bg-pattern-10 lign"></div>
-    <div class="auto-container">
-        <div class="sec-title light">
-            <span class="sub-title">@lang('front/project.txt1')</span>
-            <h2>@lang('front/project.txt2')</h2>
+<div class="rts-gallery-area rts-section-gap gallery-bg bg_image">
+    <div class="container">
+        <div class="row">
+            <div class="rts-title-area gallery text-start pl_sm--20">
+                <p class="pre-title">
+                    Projelerimiz
+                </p>
+                <h2 class="title">Tamamladığımız Projeler</h2>
+            </div>
         </div>
-        <div class="carousel-outer">
-            <div class="projects-carousel-two owl-carousel owl-theme">
-                @foreach ($project as $project)
-                    <div class="project-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image"><a href="{{ $project->url }}"><img loading="lazy"
-                                            src="{{ $project->getFirstMediaUrl('cover', 'thumbnail') }}"
-                                            alt="{{ $project->title }}"></a>
-                                </figure>
-                                <div class="info-box">
-                                    <a href="{{ $project->url }}" class="read-more">@svg('fas-long-arrow-alt-right', 'text-white')</a>
-                                    {{-- <span class="cat">Graphics</span> --}}
-                                    <h6 class="title"><a href="{{ $project->url }}">{{ $project->title }}</a>
-                                    </h6>
+        <div class="row mt--45">
+            <div class="col-12">
+                <div class="swiper mygallery mySwipers">
+                    <div class="swiper-wrapper gallery">
+                        @foreach ($project as $project)
+                            <div class="swiper-slide">
+                                <div class="row g-5 w-g-100">
+                                    <div class="col-lg-7">
+                                        <div class="thumbnail-gallery">
+                                            <img src="{{ $project->getFirstMediaUrl('cover') }}" alt="business-images">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-5">
+                                        <div class="bg-right-gallery">
+                                            <a href="#">
+                                                <h4 class="title">{{ $project->title }}</h4>
+                                            </a>
+                                            <p class="disc">{{ $project->short_description }}</p>
+                                            <a class='rts-btn btn-primary' href='{{ $project->url }}'>Detaylar</a>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        @endforeach
                     </div>
-                @endforeach
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-pagination"></div>
+                </div>
             </div>
         </div>
     </div>
-</section>
+</div>
