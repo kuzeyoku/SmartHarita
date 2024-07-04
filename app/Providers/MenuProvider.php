@@ -28,7 +28,7 @@ class MenuProvider extends ServiceProvider
 
         view()->composer("layout.footer", function ($view) use ($cache, $cacheTime) {
 
-            $informationPages = settings("information");
+            $informationPages = settings("information", []);
             if ($informationPages) {
                 unset($informationPages["cookie_notification_status"]);
                 $pages = $cache->remember("footerInformationPages_" . app()->getLocale(), $cacheTime, function () use ($informationPages) {

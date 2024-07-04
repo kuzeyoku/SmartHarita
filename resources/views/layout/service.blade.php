@@ -4,9 +4,9 @@
             <div class="col-12">
                 <div class="rts-title-area service text-center">
                     <p class="pre-title">
-                        Our Services
+                        @lang('front/service.txt1')
                     </p>
-                    <h2 class="title">High Quality Services</h2>
+                    <h2 class="title">@lang('front/service.txt2')</h2>
                 </div>
             </div>
         </div>
@@ -27,7 +27,7 @@
                                 <p class="disc">
                                     {{ $service->short_description }}
                                 </p>
-                                <a class="btn-red-more" href="{{ $service->url }}">@lang("front/service.txt3")<i
+                                <a class="btn-red-more" href="{{ $service->url }}">@lang('front/service.txt3')<i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -39,11 +39,11 @@
             <div class="cta-one-bg col-12">
                 <div class="cta-one-inner">
                     <div class="cta-left">
-                        <h3 class="title">Hizmetlerimiz hakkında detaylı bilgi ve teklif almak için iletişime geçin.
+                        <h3 class="title">@lang('front/service.txt4')
                         </h3>
                     </div>
                     <div class="cta-right">
-                        <a class='rts-btn btn-white' href='{{ route('contact.index') }}'>Hızlı Teklif Al</a>
+                        <a class='rts-btn btn-white' href='{{ route('contact.index') }}'>@lang('front/service.txt5')</a>
                     </div>
                 </div>
             </div>
