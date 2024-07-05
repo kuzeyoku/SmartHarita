@@ -3,9 +3,9 @@
         <div class="row">
             <div class="rts-title-area gallery text-start pl_sm--20">
                 <p class="pre-title">
-                    Projelerimiz
+                    @lang('front/project.txt1')
                 </p>
-                <h2 class="title">Tamamladığımız Projeler</h2>
+                <h2 class="title">@lang('front/project.txt2')</h2>
             </div>
         </div>
         <div class="row mt--45">
@@ -22,11 +22,12 @@
                                     </div>
                                     <div class="col-lg-5">
                                         <div class="bg-right-gallery">
-                                            <a href="#">
+                                            <a href="{{ $project->url }}">
                                                 <h4 class="title">{{ $project->title }}</h4>
                                             </a>
                                             <p class="disc">{{ $project->short_description }}</p>
-                                            <a class='rts-btn btn-primary' href='{{ $project->url }}'>Detaylar</a>
+                                            <a class='rts-btn btn-primary'
+                                                href='{{ $project->url }}'>@lang('front/project.txt3')</a>
                                         </div>
                                     </div>
                                 </div>

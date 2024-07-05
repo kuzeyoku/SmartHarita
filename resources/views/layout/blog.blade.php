@@ -3,8 +3,8 @@
         <div class="row">
             <div class="col-12">
                 <div class="title-area text-center">
-                    <span>Blog Posts</span>
-                    <h2 class="title">News & Updates</h2>
+                    <span>@lang('front/blog.txt1')</span>
+                    <h2 class="title">@lang('front/blog.txt2')</h2>
                 </div>
             </div>
         </div>
@@ -27,12 +27,11 @@
                                         <h5 class="title">{{ $post->title }}</h5>
                                     </a>
                                     <a class='rts-read-more btn-primary' href='{{ $post->url }}'><i
-                                            class="far fa-arrow-right"></i>Detaylar</a>
+                                            class="far fa-arrow-right"></i>@lang('front/blog.txt3')</a>
                                 </div>
                             </div>
                         </div>
                     @endforeach
-
                 </div>
             </div>
         </div>
