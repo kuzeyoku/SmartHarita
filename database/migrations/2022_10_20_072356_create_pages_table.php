@@ -16,6 +16,7 @@ return new class extends Migration
             $table->id();
             $table->string("slug", 255);
             $table->enum("status", StatusEnum::getValues())->default(StatusEnum::Active->value);
+            $table->enum("quick_link", array_keys(StatusEnum::getYesNoSelectArray()))->default(StatusEnum::No->value);
             $table->timestamps();
         });
     }

@@ -26,6 +26,7 @@ class StorePageRequest extends FormRequest
             "title.*" => "",
             "description.*" => "",
             "status" => "required",
+            "quick_link" => "required"
         ];
     }
 
@@ -34,7 +35,8 @@ class StorePageRequest extends FormRequest
         return [
             "title." . app()->getFallbackLocale() => __("admin/{$this->folder}.form_title"),
             "description.*" => __("admin/{$this->folder}.form_description"),
-            "status" => __("admin/general.status")
+            "status" => __("admin/general.status"),
+            "quick_link" => __("admin/{$this->folder}.form_quick_link")
         ];
     }
 }

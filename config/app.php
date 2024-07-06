@@ -170,7 +170,6 @@ return [
         App\Providers\RouteServiceProvider::class,
         Barryvdh\Debugbar\ServiceProvider::class,
         Spatie\Html\HtmlServiceProvider::class,
-        App\Providers\MenuProvider::class,
         App\Providers\PopupProvider::class,
         App\Providers\CookieProvider::class,
         App\Providers\MailSettingProvider::class,

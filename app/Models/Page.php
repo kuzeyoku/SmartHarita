@@ -15,6 +15,7 @@ class Page extends Model
     protected $fillable = [
         'slug',
         'status',
+        "quick_link"
     ];
 
     protected $locale;

@@ -21,7 +21,7 @@ class PageService extends BaseService
 
     public function create(Request $request)
     {
-        $query = parent::create(new Request($request->only("status")));
+        $query = parent::create(new Request($request->only("status", "quick_link")));
 
         if ($query->id) {
             $this->translations($query->id, $request);
@@ -32,7 +32,7 @@ class PageService extends BaseService
 
     public function update(Request $request, Model $page)
     {
-        $query = parent::update(new Request($request->only("status")), $page);
+        $query = parent::update(new Request($request->only("status", "quick_link")), $page);
 
         if ($query) {
             $this->translations($page->id, $request);

@@ -25,7 +25,9 @@ class UpdatePageRequest extends FormRequest
             "title." . app()->getFallbackLocale() => "required",
             "title.*" => "",
             "description.*" => "",
-            "status" => "required"
+            "status" => "required",
+            "quick_link" => "required"
+
         ];
     }
 
@@ -34,7 +36,8 @@ class UpdatePageRequest extends FormRequest
         return [
             "title." . app()->getFallbackLocale() => __("admin/{$this->folder}.form_title"),
             "description.*" => __("admin/{$this->folder}.form_description"),
-            "status" => __("admin/general.status")
+            "status" => __("admin/general.status"),
+            "quick_link" => __("admin/{$this->folder}.form_quick_link")
         ];
     }
 }
