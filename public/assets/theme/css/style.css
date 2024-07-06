@@ -11224,8 +11224,7 @@ body {
     max-width: max-content;
     margin-top: 25px;
 }
-.pagination button {
-    max-width: max-content;
+.pagination a {
     padding: 15px;
     border: 1px solid #ebebeb;
     border-radius: 15px;
@@ -11236,19 +11235,16 @@ body {
     width: 50px;
     line-height: 18px;
 }
-.pagination button.active {
+.pagination a.active {
     background: #e00a0a;
     color: #ffff;
 }
-.pagination button:hover {
+.pagination a:hover {
     background: var(--color-primary);
     color: #fff;
 }
-.pagination button:last-child {
-    margin-right: 0;
-    font-size: 24px;
-}
-.pagination button:last-child i {
+
+.pagination a:last-child i {
     margin-top: -3px;
 }
 
@@ -18068,6 +18064,7 @@ body.home-eleven #menu-btn:hover {
 }
 .rts-btn.btn-primary {
     background: var(--color-primary);
+    max-width: 200px;
 }
 .rts-btn.btn-primary.six {
     background: var(--color-primary-6);
@@ -30624,7 +30621,7 @@ section.svg-container:nth-last-of-type(0) svg.radial-progress {
     border-radius: 5px;
 }
 .rts-single-wized .recent-post-single .thumbnail img {
-    min-width: 85px;
+    max-width: 100px;
     height: auto;
     transition: 0.3s;
 }

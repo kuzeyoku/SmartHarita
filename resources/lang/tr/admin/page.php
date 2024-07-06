@@ -23,6 +23,7 @@ return [
     "form_title" => "Sayfa Başlığı",
     "form_title_placeholder" => "Sayfa Başlığı Giriniz",
     "form_description" => "Sayfa İçeriği",
+    "form_quick_link" => "Hızlı Link Listesinde Göster",
     //Table
     "table_title" => "Sayfa Başlığı",
 ];

@@ -8,6 +8,14 @@
             {{ html()->textarea("description[$lang->code]", $page->descriptions[$lang->code])->class('editor') }}
         </div>
     @endforeach
-    {{ html()->label(__('admin/general.status')) }}
-    {{ html()->select('status', statusList())->class('form-control') }}
+    <div class="row">
+        <div class="col-lg-6">
+            {{ html()->label(__('admin/general.status')) }}
+            {{ html()->select('status', statusList(), $page->status)->class('form-control') }}
+        </div>
+        <div class="col-lg-6">
+            {{ html()->label(__('admin/page.form_quick_link')) }}
+            {{ html()->select('quick_link', App\Enums\StatusEnum::getYesNoSelectArray(), $page->quick_link)->class('form-control') }}
+        </div>
+    </div>
 @endsection

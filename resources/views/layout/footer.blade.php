@@ -3,8 +3,8 @@
         <div class="row g-5">
             <div class="col-xl-3 col-lg-6">
                 <div class="footer-three-single-wized left">
-                    <a href="index.htm" class="logo_footer">
-                        <img src="{{ themeAsset('front', 'images/logo/logo-5.1.svg') }}" alt="Logo-image">
+                    <a href="{{ route('home') }}" class="logo_footer">
+                        <img src="{{ $themeAsset->logo_light }}" alt="{{ settings('general.title') }}">
                     </a>
                     <p class="disc">{{ settings('general.description') }}</p>
                     <ul class="social-three-wrapper">
@@ -15,88 +15,70 @@
                     </ul>
                 </div>
             </div>
-            <!-- footer three mid area -->
-            <div class="col-xl-6 col-lg-6">
-                <div class="row">
-                    <!-- footer mid area left -->
-                    <div class="col-lg-6">
-                        <div class="footer-three-single-wized mid-left">
-                            <h5 class="title">Office Information</h5>
-                            <div class="body">
-                                <div class="info-wrapper">
-                                    <div class="single">
-                                        <ul class="icon">
-                                            <li><i class="fas fa-phone-alt"></i></li>
-                                        </ul>
-                                        <div class="info">
-                                            <span>Call Us 24/7</span>
-                                            <a href="#">{{ settings('contact.phone') }}</a>
-                                        </div>
-                                    </div>
-                                    <div class="single">
-                                        <ul class="icon">
-                                            <li><i class="far fa-envelope"></i></li>
-                                        </ul>
-                                        <div class="info">
-                                            <span>Work with us</span>
-                                            <a href="#">{{ settings('contact.email') }}</a>
-                                        </div>
-                                    </div>
-                                    <div class="single">
-                                        <ul class="icon">
-                                            <li><i class="fas fa-map-marker-alt"></i></li>
-                                        </ul>
-                                        <div class="info">
-                                            <span>Our Location</span>
-                                            <a href="#">{{ settings('contact.address') }}</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+            <div class="col-xl-3 col-lg-6">
+                <div class="footer-one-single-wized">
+                    <div class="wized-title">
+                        <h5 class="title">@lang('front/footer.txt5')</h5>
+                        <img src="{{ themeAsset('front', 'images/footer/under-title.png') }}" alt="finbiz_footer">
                     </div>
-                    <!-- footer mid area left end -->
-
-                    <!-- footer mid area right -->
-                    <div class="col-lg-6">
-                        <div class="footer-three-single-wized mid-right">
-                            <h5 class="title">Get Updates</h5>
-                            <div class="body">
-                                <div class="update-wrapper">
-                                    <p class="disc">Sign up for our latest news & articles. We won’t give you spam
-                                        mails.</p>
-                                    <form class="email-footer-area">
-                                        <input type="email" placeholder="Enter Email Address" required="">
-                                        <button type="submit"><i class="fas fa-location-arrow"></i></button>
-                                    </form>
-                                    <div class="note-area">
-                                        <p><span>Note:</span> We do not publish your email</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="quick-link-inner">
+                        <ul class="links">
+                            @foreach ($quickLinks as $link)
+                                <li><a href="{{ $link->url }}"><i class="far fa-arrow-right"></i>
+                                        {{ $link->title }}</a></li>
+                            @endforeach
+                        </ul>
                     </div>
-                    <!-- footer mid area right end -->
                 </div>
             </div>
-            <!-- footer three mid area ENd -->
             <div class="col-xl-3 col-lg-6">
-                <div class="footer-three-single-wized right">
-                    <h5 class="title">Instagram Posts</h5>
+                <div class="footer-one-single-wized">
+                    <div class="wized-title">
+                        <h5 class="title">@lang('front/footer.txt6')</h5>
+                        <img src="{{ themeAsset('front', 'images/footer/under-title.png') }}" alt="finbiz_footer">
+                    </div>
+                    <div class="quick-link-inner">
+                        <ul class="links">
+                            @foreach ($footer_services as $service)
+                                <li><a href="{{ $service->url }}"><i class="far fa-arrow-right"></i>
+                                        {{ $service->title }}</a></li>
+                            @endforeach
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-3">
+                <div class="footer-three-single-wized mid-left">
+                    <h5 class="title">@lang('front/footer.txt1')</h5>
                     <div class="body">
-                        <div class="footer-gallery-inner">
-                            <a href="#"><img src="assets/images/footer/three-gallery/01.png"
-                                    alt="Footer-gallery"></a>
-                            <a href="#"><img src="assets/images/footer/three-gallery/02.png"
-                                    alt="Footer-gallery"></a>
-                            <a href="#"><img src="assets/images/footer/three-gallery/03.png"
-                                    alt="Footer-gallery"></a>
-                            <a href="#"><img src="assets/images/footer/three-gallery/04.png"
-                                    alt="Footer-gallery"></a>
-                            <a href="#"><img src="assets/images/footer/three-gallery/05.png"
-                                    alt="Footer-gallery"></a>
-                            <a href="#"><img src="assets/images/footer/three-gallery/06.png"
-                                    alt="Footer-gallery"></a>
+                        <div class="info-wrapper">
+                            <div class="single">
+                                <ul class="icon">
+                                    <li><i class="fas fa-phone-alt"></i></li>
+                                </ul>
+                                <div class="info">
+                                    <span>@lang('front/footer.txt2')</span>
+                                    <a href="tel:{{ settings('contact.phone') }}">{{ settings('contact.phone') }}</a>
+                                </div>
+                            </div>
+                            <div class="single">
+                                <ul class="icon">
+                                    <li><i class="far fa-envelope"></i></li>
+                                </ul>
+                                <div class="info">
+                                    <span>@lang('front/footer.txt3')</span>
+                                    <a href="mailto:{{ settings('contact.email') }}">{{ settings('contact.email') }}</a>
+                                </div>
+                            </div>
+                            <div class="single">
+                                <ul class="icon">
+                                    <li><i class="fas fa-map-marker-alt"></i></li>
+                                </ul>
+                                <div class="info">
+                                    <span>@lang('front/footer.txt4')</span>
+                                    <a href="#">{{ settings('contact.address') }}</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -106,7 +88,7 @@
     <div class="copyright-area">
         <div class="container">
             <p class="disc text-center ptb--25">
-                FINBIZ - Copyright 2022. All rights reserved.
+                @lang('front/footer.txt7', ['year' => date('Y'), 'title' => settings('general.title'), 'author' => env('APP_NAME'), 'url' => env('APP_URL')])
             </p>
         </div>
     </div>
