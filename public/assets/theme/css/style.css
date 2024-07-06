@@ -10982,7 +10982,7 @@ body {
 }
 .rts-title-area::after {
     position: absolute;
-    content: "About Us";
+    content: attr(data-title);
     left: -14%;
     top: -39%;
     color: #ffffff;
@@ -11039,7 +11039,7 @@ body {
     margin-bottom: 24px;
 }
 .rts-title-area.service::after {
-    content: "Services";
+    content: attr(data-title);
     left: 50%;
     transform: translateX(-50%);
 }
@@ -11052,7 +11052,7 @@ body {
     top: -70%;
 }
 .rts-title-area.service-four::after {
-    content: "Services";
+    content: attr(data-title);
     left: 50%;
     transform: translateX(-50%);
     top: -20%;
@@ -11066,7 +11066,7 @@ body {
     z-index: -1;
 }
 .rts-title-area.gallery::after {
-    content: "Gallery";
+    content: attr(data-title);
     left: 18%;
     transform: translateX(-50%);
     z-index: -1;
@@ -11142,7 +11142,7 @@ body {
     }
 }
 .rts-title-area.contact-fluid::after {
-    content: "Contact Us";
+    content: attr(data-title);
     left: 49%;
     transform: translateX(-50%);
     z-index: -1;
@@ -33769,7 +33769,7 @@ p.disc {
 }
 
 .index-seven .rts-title-area.gallery::after {
-    content: "Gallery";
+    content: attr(data-title);
     left: 18%;
     transform: translateX(-50%);
     z-index: -1;
@@ -34179,8 +34179,8 @@ p.disc {
 
 .progress-wrap {
     position: fixed;
-    right: 30px;
-    bottom: 30px;
+    right: 60px;
+    bottom: 100px;
     height: 46px;
     width: 46px;
     cursor: pointer;
@@ -34202,11 +34202,11 @@ p.disc {
 
 .progress-wrap::after {
     position: absolute;
-    font-family: "unicons";
-    content: "\e84b";
+    font-family: "Font Awesome 5 Pro";
+    content: "\f062";
     text-align: center;
     line-height: 46px;
-    font-size: 24px;
+    font-size: 16px;
     color: var(--color-primary);
     left: 0;
     top: 0;
@@ -34225,14 +34225,14 @@ p.disc {
 
 .progress-wrap:hover::after {
     opacity: 1;
-    content: "\e84b";
+    content: "\f062";
     border: 2px solid var(--color-primary);
 }
 
 .progress-wrap::before {
     position: absolute;
-    font-family: "unicons";
-    content: "\e84b";
+    font-family: "Font Awesome 5 Pro";
+    content: "\f062";
     text-align: center;
     line-height: 46px;
     font-size: 24px;

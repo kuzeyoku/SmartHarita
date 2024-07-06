@@ -31,16 +31,13 @@ function formInfo($text)
 
 function recaptcha($request)
 {
-    if (settings("recaptcha.status") === StatusEnum::Active->value) {
-        $response = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . settings("recaptcha.secret_key") . '&response=' . $request->{"g-recaptcha-response"});
-
+    if (settings("integration.recaptcha_status") === StatusEnum::Active->value) {
+        $response = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . settings("integration.recaptcha_secret_key") . '&response=' . $request->{"g-recaptcha-response"});
         if (($recaptcha = json_decode($response)) && $recaptcha->success && $recaptcha->score >= 0.5) {
             return true;
         }
-
         return false;
     }
-
     return true;
 }
 

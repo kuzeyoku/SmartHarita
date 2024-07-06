@@ -42,7 +42,6 @@ class ContactController extends Controller
                 "status" => StatusEnum::Unread->value,
                 "ip" => $request->ip(),
                 "user_agent" => $request->userAgent(),
-                //"consent" => $request->terms
             ]);
             return back()
                 ->withSuccess(__("front/contact.send_success"));

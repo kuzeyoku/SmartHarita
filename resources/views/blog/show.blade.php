@@ -31,17 +31,19 @@
                             <p class="disc">
                                 {!! $post->description !!}
                             </p>
-                            <div class="author-area">
-                                <div class="align-items-center">
-                                    <div class="details-tag">
-                                        <h6>@lang('front/blog.txt5')</h6>
-                                        @foreach ($post->tagsToArray as $tag)
-                                            <button>{{ $tag }}</button>
-                                        @endforeach
+                            @if (count($post->tagsToArray) > 0)
+                                <div class="author-area">
+                                    <div class="align-items-center">
+                                        <div class="details-tag">
+                                            <h6>@lang('front/blog.txt5')</h6>
+                                            @foreach ($post->tagsToArray as $tag)
+                                                <button>{{ $tag }}</button>
+                                            @endforeach
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="replay-area-details">
+                            @endif
+                            {{-- <div class="replay-area-details">
                                 <h4 class="title">@lang('front/blog.txt6')</h4>
                                 {{ html()->form()->route('blog.comment_store', $post)->open() }}
                                 <div class="row g-4">
@@ -59,7 +61,7 @@
                                         'data-action' => 'submit',
                                     ]) }}
                                 {{ html()->form()->close() }}
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div>

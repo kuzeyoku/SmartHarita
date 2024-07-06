@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <div class="rts-title-area service text-center">
+                <div data-title="@lang('front/service.txt2')" class="rts-title-area service text-center">
                     <p class="pre-title">
                         @lang('front/service.txt1')
                     </p>

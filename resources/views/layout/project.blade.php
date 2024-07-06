@@ -1,7 +1,7 @@
 <div class="rts-gallery-area rts-section-gap gallery-bg bg_image">
     <div class="container">
         <div class="row">
-            <div class="rts-title-area gallery text-start pl_sm--20">
+            <div data-title="@lang('front/project.txt1')" class="rts-title-area gallery text-start pl_sm--20">
                 <p class="pre-title">
                     @lang('front/project.txt1')
                 </p>

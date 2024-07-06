@@ -3,7 +3,7 @@
         <div class="row g-5 align-items-center">
             <div
                 class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-1 order-md-2 order-sm-2 order-2 mt_md--50 mt_sm--50">
-                <div class="rts-title-area">
+                <div data-title="@lang('front/about.txt2')" class="rts-title-area">
                     <p class="pre-title">
                         @lang('front/about.txt1')
                     </p>
@@ -24,9 +24,8 @@
                     <div class="row about-founder-wrapper align-items-center mt--40">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                             <div class="author-inner">
-                                <a class="thumbnail" href="#"><img
-                                        src="{{ $themeAsset->about1 }}"
-                                        alt="finbiz_founder"></a>
+                                <a class="thumbnail" href="#"><img src="{{ $themeAsset->about1 }}"
+                                        alt="about-1"></a>
                                 <div class="founder-details">
                                     <a href='team-details.html'>
                                         <h6 class="title">@lang('front/about.txt5')</h6>
@@ -38,7 +37,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6 col-12 mt_sm--20">
                             <div class="author-call-option">
                                 <img class="authore-call" src="{{ themeAsset('front', 'images/about/call.svg') }}"
-                                    alt="call_founder">
+                                    alt="call-svg">
                                 <div class="call-details">
                                     <span>@lang('front/about.txt7')</span>
                                     <a href="tel:{{ settings('contact.phone') }}">
@@ -52,9 +51,8 @@
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-2 order-md-1 order-sm-1 order-1">
                 <div class="about-one-thumbnail">
-                    <img src="{{ $themeAsset->about2 }}" alt="about-finbiz">
-                    <img class="small-img" src="{{ $themeAsset->about3 }}"
-                        alt="finbiz-small">
+                    <img src="{{ $themeAsset->about2 }}" alt="about-2">
+                    <img class="small-img" src="{{ $themeAsset->about3 }}" alt="about-3">
                     <div class="experience">
                         <div class="left single">
                             <h2 class="title">@lang('front/about.txt8')</h2>
