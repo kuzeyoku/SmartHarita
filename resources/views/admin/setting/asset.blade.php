@@ -3,7 +3,7 @@
     <div class="row">
         @foreach ($service->getThemeAssets() as $key => $value)
             <div class="col-lg-3 mb-3">
-                {{ html()->file($key)->class('dropify-image')->attribute('data-default-file', $themeAsset->{$key})->accept('.png, .jpg, .jpeg, .gif') }}
+                {{ html()->file($key)->class('dropify-image')->attribute('data-default-file', $themeAsset->{$key})->accept('.png, .jpg, .jpeg, .gif, .svg') }}
                 <kbd>@lang('admin/setting.asset_usage', ['code' => '$themeAsset->' . $key])</kbd>
             </div>
         @endforeach

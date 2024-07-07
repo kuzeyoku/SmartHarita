@@ -8,7 +8,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-contact-one-inner">
                         <div class="thumbnail">
-                            <img src="{{ themeAsset('front', 'images/contact/01.png') }}" alt="">
+                            <img src="{{ $themeAsset->contact1 }}" alt="">
                         </div>
                         <div class="content">
                             <div class="icone">
@@ -26,7 +26,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-contact-one-inner">
                         <div class="thumbnail">
-                            <img src="{{ themeAsset('front', 'images/contact/02.png') }}" alt="">
+                            <img src="{{ $themeAsset->contact2 }}" alt="">
                         </div>
                         <div class="content">
                             <div class="icone">
@@ -44,7 +44,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-contact-one-inner">
                         <div class="thumbnail">
-                            <img src="{{ themeAsset('front', 'images/contact/03.png') }}" alt="">
+                            <img src="{{ $themeAsset->contact3 }}" alt="">
                         </div>
                         <div class="content">
                             <div class="icone">

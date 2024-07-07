@@ -1,4 +1,4 @@
-<div class="rts-breadcrumb-area breadcrumb-bg bg_image">
+<div class="rts-breadcrumb-area bg_image" style="background-image: url({{ $themeAsset->breadcrumb }})">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 breadcrumb-1">

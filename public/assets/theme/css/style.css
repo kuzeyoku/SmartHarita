@@ -17197,10 +17197,6 @@ body.home-eleven #menu-btn:hover {
     color: #1c2539;
 }
 
-.breadcrumb-bg {
-    background-image: url(../images/breadcrumb/01.jpg);
-}
-
 .rts-breadcrumb-area {
     padding-top: 153px;
     padding-bottom: 153px;
@@ -24805,7 +24801,6 @@ section.svg-container:nth-last-of-type(0) svg.radial-progress {
 }
 
 .cta-one-bg {
-    background-image: url(../images/cta/01.jpg);
     background-repeat: no-repeat;
     background-color: #df0a0a;
     background-blend-mode: multiply;

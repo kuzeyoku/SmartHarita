@@ -36,7 +36,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="cta-one-bg col-12">
+            <div class="cta-one-bg col-12" style="background-image: url({{ $themeAsset->cta }})">
                 <div class="cta-one-inner">
                     <div class="cta-left">
                         <h3 class="title">@lang('front/service.txt4')
