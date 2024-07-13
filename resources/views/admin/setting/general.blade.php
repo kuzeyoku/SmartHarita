@@ -6,4 +6,6 @@
     {{ html()->textarea('description', settings('general.description'))->placeholder(__("admin/{$folder}.general_description_placeholder"))->class('form-control') }}
     {{ html()->label(__("admin/{$folder}.general_keywords")) }}
     {{ html()->text('keywords', settings('general.keywords'))->placeholder(__("admin/{$folder}.general_keywords_placeholder"))->class('form-control') }}
+    {{ html()->label(__("admin/{$folder}.general_video")) }}
+    {{ html()->text('video', settings('general.video'))->placeholder(__("admin/{$folder}.general_video_placeholder"))->class('form-control') }}
 @endsection

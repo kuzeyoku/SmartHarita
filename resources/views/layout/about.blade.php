@@ -22,18 +22,6 @@
                         @endforeach
                     </div>
                     <div class="row about-founder-wrapper align-items-center mt--40">
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-12">
-                            <div class="author-inner">
-                                <a class="thumbnail" href="#"><img src="{{ $themeAsset->about1 }}"
-                                        alt="about-1"></a>
-                                <div class="founder-details">
-                                    <a href='team-details.html'>
-                                        <h6 class="title">@lang('front/about.txt5')</h6>
-                                    </a>
-                                    <span>@lang('front/about.txt6')</span>
-                                </div>
-                            </div>
-                        </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-12 mt_sm--20">
                             <div class="author-call-option">
                                 <img class="authore-call" src="{{ themeAsset('front', 'images/about/call.svg') }}"
@@ -45,6 +33,19 @@
                                     </a>
                                 </div>
                             </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                            @if (settings('general.video'))
+                                <div class="vedio-icone">
+                                    <a id="play-video" class="video-play-button" href="{{ settings('general.video') }}">
+                                        <span></span>
+                                        <span class="outer-text">@lang("front/about.txt5")</span>
+                                    </a>
+                                    <div id="video-overlay" class="video-overlay">
+                                        <a class="video-overlay-close">×</a>
+                                    </div>
+                                </div>
+                            @endif
                         </div>
                     </div>
                 </div>

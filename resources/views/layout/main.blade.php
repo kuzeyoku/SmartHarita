@@ -32,7 +32,6 @@
     <script src="{{ themeAsset('front', 'js/counterup.js') }}"></script>
     <script src="{{ themeAsset('front', 'js/sal.min.js') }}"></script>
     <script src="{{ themeAsset('front', 'js/waw.js') }}"></script>
-    <script src="{{ themeAsset('front', 'js/contact.form.js') }}"></script>
     <script src="{{ themeAsset('front', 'js/main.js') }}"></script>
     @stack('script')
     @include('layout.alert')
