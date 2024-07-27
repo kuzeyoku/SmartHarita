@@ -12,7 +12,7 @@
             {{ settings('general.title') }}
         @endif
     </title>
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ themeAsset('front', 'images/fav.png') }}">
     <link rel="stylesheet" href="{{ themeAsset('front', 'css/swiper.min.css') }}">
     <link rel="stylesheet" href="{{ themeAsset('front', 'css/fontawesome-5.css') }}">
     <link rel="stylesheet" href="{{ themeAsset('front', 'css/animate.min.css') }}">
