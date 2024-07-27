@@ -37,7 +37,7 @@ class Slider extends Model implements HasMedia
 
     public function scopeOrder($query)
     {
-        return $query->orderBy("order");
+        return $query->orderBy("order asc", "id desc");
     }
 
     public function translate()
