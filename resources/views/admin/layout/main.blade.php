@@ -9,8 +9,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{ themeAsset('admin', 'img/favicon.png') }}">
     <link rel="stylesheet" href="{{ themeAsset('admin', 'css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ themeAsset('admin', 'css/animate.css') }}">
-    <link rel="stylesheet" href="{{ themeAsset('admin', 'plugins/fontawesome/css/fontawesome.min.css') }}">
-    <link rel="stylesheet" href="{{ themeAsset('admin', 'plugins/fontawesome/css/all.min.css') }}">
+    <link rel="stylesheet" href="{{ themeAsset('admin', 'css/fontawesome.css') }}">
     @stack('style')
     <link rel="stylesheet" href="{{ themeAsset('admin', 'css/style.css') }}">
 </head>
@@ -30,7 +29,7 @@
     <script src="{{ themeAsset('admin', 'js/feather.min.js') }}"></script>
     <script src="{{ themeAsset('admin', 'js/jquery.slimscroll.min.js') }}"></script>
     <script src="{{ themeAsset('admin', 'js/bootstrap.bundle.min.js') }}"></script>
-    <script src="{{ themeAsset('admin', 'plugins/sweetalert/sweetalert2.all.min.js') }}"></script>
+    <script src="{{ themeAsset('common', 'js/sweetalert.js') }}"></script>
     @include(themeView('admin', 'layout.alert'))
     @stack('script')
     <script src="{{ themeAsset('admin', 'js/script.js') }}"></script>

@@ -40,7 +40,7 @@ class AuthController extends Controller
 
     public function authenticate(LoginRequest $request)
     {
-        if (!recaptcha($request)) {
+        if (!recaptcha()) {
             return back()
                 ->withInput()
                 ->withError(__("admin/{$this->folder}.recaptcha_error"));
@@ -73,7 +73,7 @@ class AuthController extends Controller
 
     public function forgot_password(ForgotPasswordRequest $request)
     {
-        if (!recaptcha($request)) {
+        if (!recaptcha()) {
             return back()
                 ->withInput()
                 ->withError(__("admin/{$this->folder}.recaptcha_error"));

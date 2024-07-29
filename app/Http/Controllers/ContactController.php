@@ -19,7 +19,7 @@ class ContactController extends Controller
 
     public function send(ContactRequest $request)
     {
-        if (!recaptcha($request)) {
+        if (!recaptcha()) {
             return back()
                 ->withInput()
                 ->withError(__("front/general.recaptcha_error"));
