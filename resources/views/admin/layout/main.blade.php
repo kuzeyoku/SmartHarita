@@ -9,7 +9,6 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{ themeAsset('admin', 'img/favicon.png') }}">
     <link rel="stylesheet" href="{{ themeAsset('admin', 'css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ themeAsset('admin', 'css/animate.css') }}">
-    <link rel="stylesheet" href="{{ themeAsset('admin', 'css/fontawesome.css') }}">
     @stack('style')
     <link rel="stylesheet" href="{{ themeAsset('admin', 'css/style.css') }}">
 </head>
