@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 use App\Services\Admin\SliderService;
 use App\Http\Requests\Slider\StoreSliderRequest;
 use App\Http\Requests\Slider\UpdateSliderRequest;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 
 class SliderController extends Controller
 {

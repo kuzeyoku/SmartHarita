@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 use App\Services\Admin\ReferenceService;
 use App\Http\Requests\Reference\StoreReferenceRequest;
 use App\Http\Requests\Reference\UpdateReferenceRequest;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 
 class ReferenceController extends Controller
 {

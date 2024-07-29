@@ -8,7 +8,7 @@ use App\Services\Admin\LanguageService;
 use App\Http\Requests\Language\StoreLanguageRequest;
 use App\Http\Requests\Language\UpdateLanguageRequest;
 use Illuminate\Http\Request;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 
 class LanguageController extends Controller
 {

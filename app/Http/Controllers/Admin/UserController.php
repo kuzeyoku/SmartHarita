@@ -10,7 +10,7 @@ use App\Http\Controllers\Controller;
 use App\Http\Requests\User\UserStoreRequest;
 use App\Http\Requests\User\UserUpdateRequest;
 use App\Http\Controllers\Admin\LogController;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 
 class UserController extends Controller
 {

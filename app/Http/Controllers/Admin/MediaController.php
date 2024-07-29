@@ -4,7 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use App\Enums\ModuleEnum;
 use App\Http\Controllers\Controller;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 use Spatie\MediaLibrary\MediaCollections\Models\Media;
 
 class MediaController extends Controller

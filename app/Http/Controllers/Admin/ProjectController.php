@@ -9,7 +9,7 @@ use App\Services\Admin\ProjectService;
 use App\Http\Requests\Project\ImageProjectRequest;
 use App\Http\Requests\Project\StoreProjectRequest;
 use App\Http\Requests\Project\UpdateProjectRequest;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 use Spatie\MediaLibrary\MediaCollections\Models\Media;
 
 class ProjectController extends Controller

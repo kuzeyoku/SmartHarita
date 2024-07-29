@@ -6,7 +6,7 @@ use App\Enums\SettingCategoryEnum;
 use Throwable;
 use Illuminate\Http\Request;
 use App\Services\Admin\SettingService;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 
 class SettingController extends Controller
 {

@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 use App\Services\Admin\PopupService;
 use App\Http\Requests\Popup\StorePopupRequest;
 use App\Http\Requests\Popup\UpdatePopupRequest;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 
 class PopupController extends Controller
 {

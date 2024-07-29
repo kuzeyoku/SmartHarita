@@ -6,7 +6,7 @@ use Throwable;
 use App\Models\Message;
 use App\Services\Admin\MessageService;
 use App\Http\Requests\Message\ReplyMessageRequest;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 
 class MessageController extends Controller
 {

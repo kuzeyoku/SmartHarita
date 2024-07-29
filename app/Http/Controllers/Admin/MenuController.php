@@ -8,7 +8,7 @@ use App\Services\Admin\MenuService;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Menu\StoreMenuRequest;
 use App\Http\Requests\Menu\UpdateMenuRequest;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 
 class MenuController extends Controller
 {

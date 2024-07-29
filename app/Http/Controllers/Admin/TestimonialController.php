@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 use App\Services\Admin\TestimonialService;
 use App\Http\Requests\Testimonial\StoreTestimonialRequest;
 use App\Http\Requests\Testimonial\UpdateTestimonialRequest;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 
 class TestimonialController extends Controller
 {

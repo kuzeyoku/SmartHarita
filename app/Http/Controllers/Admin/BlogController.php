@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Admin;
 use Throwable;
 use App\Models\Blog;
 use App\Enums\StatusEnum;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 use App\Models\BlogComment;
 use Illuminate\Http\Request;
 use App\Services\Admin\BlogService;

@@ -9,7 +9,7 @@ use Illuminate\Http\Request;
 use App\Services\Admin\CategoryService;
 use App\Http\Requests\Category\StoreCategoryRequest;
 use App\Http\Requests\Category\UpdateCategoryRequest;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 
 class CategoryController extends Controller
 {

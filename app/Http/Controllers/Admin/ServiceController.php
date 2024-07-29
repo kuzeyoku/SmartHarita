@@ -9,7 +9,7 @@ use Illuminate\Http\Request;
 use App\Services\Admin\ServiceService;
 use App\Http\Requests\Service\StoreServiceRequest;
 use App\Http\Requests\Service\UpdateServiceRequest;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 
 class ServiceController extends Controller
 {

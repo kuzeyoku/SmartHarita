@@ -9,7 +9,7 @@ use App\Services\Admin\ProductService;
 use App\Http\Requests\Product\ImageProductRequest;
 use App\Http\Requests\Product\StoreProductRequest;
 use App\Http\Requests\Product\UpdateProductRequest;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 use Spatie\MediaLibrary\MediaCollections\Models\Media;
 
 class ProductController extends Controller

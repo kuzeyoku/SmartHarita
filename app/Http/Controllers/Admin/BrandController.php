@@ -4,7 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use Throwable;
 use App\Models\Brand;
-use Illuminate\View\View;
+use Illuminate\Support\Facades\View;
 use Illuminate\Http\Request;
 use App\Services\Admin\BrandService;
 use App\Http\Requests\Brand\StoreBrandRequest;
