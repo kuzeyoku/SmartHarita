@@ -172,7 +172,6 @@ return [
         Spatie\Html\HtmlServiceProvider::class,
         App\Providers\PopupProvider::class,
         App\Providers\CookieProvider::class,
-        App\Providers\MailSettingProvider::class,
         App\Providers\ThemeProvider::class,
     ])->toArray(),
 

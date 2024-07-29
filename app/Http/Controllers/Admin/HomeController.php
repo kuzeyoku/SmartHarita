@@ -12,9 +12,9 @@ use Illuminate\Support\Facades\Cache;
 
 class HomeController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
-        $data["userData"] = $this->getVisitorLocation();
+        $data["userData"] = $this->getVisitorLocation($request);
         $data["visits"] = $this->getVisitorRecords(7);
         $data["popularPosts"] = Cache::remember("popularPosts", 300, function () {
             return Blog::orderByDesc("view_count")->limit(6)->get();
@@ -67,10 +67,10 @@ class HomeController extends Controller
         });
     }
 
-    private function getVisitorLocation()
+    private function getVisitorLocation(Request $request)
     {
         $client = new Client();
-        $response = $client->get("ipinfo.io/" . request()->ip() . "?token=1a17407b2ccf6f");
+        $response = $client->get("ipinfo.io/" . $request->ip() . "?token=1a17407b2ccf6f");
         return json_decode($response->getBody());
     }
 
