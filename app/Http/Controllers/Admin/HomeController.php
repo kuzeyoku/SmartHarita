@@ -53,7 +53,6 @@ class HomeController extends Controller
                 "chart" => [
                     "singleVisits" => [],
                     "uniqueVisits" => [],
-                    "pageViews" => [],
                     "dates" => []
                 ]
             ];
@@ -62,7 +61,6 @@ class HomeController extends Controller
                 $endDay = today()->subDays($i - 1);
                 $data["chart"]["singleVisits"][] = $visits->whereBetween("updated_at", [$startDay, $endDay])->count();
                 $data["chart"]["uniqueVisits"][] = $visits->whereBetween("created_at", [$startDay, $endDay])->count();
-                $data["chart"]["pageViews"][] = $visits->whereBetween("updated_at", [$startDay, $endDay])->sum("visit_count");
                 $data["chart"]["dates"][] = strtotime($startDay) * 1000;
             }
             return $data;

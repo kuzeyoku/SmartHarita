@@ -1,7 +1,7 @@
 @if (settings('information.cookie_notification_status', App\Enums\StatusEnum::Passive->value) ==
         App\Enums\StatusEnum::Active->value)
     <div class="cookie" id="cookie-notification" style="display:none">
-        <img src="{{ themeAsset('front', 'images/cookie.svg') }}" alt="cookie">
+        <img src="{{ themeAsset('common', 'images/cookie.svg') }}" alt="cookie">
         <div class="title">
             {{ __('front/cookie.txt1') }}
         </div>
@@ -13,7 +13,6 @@
         <button class="cookie-btn" id="cookie-accept">{{ __('front/cookie.txt3') }}</button>
     </div>
     @push('script')
-        <script src="{{ themeAsset('front', 'js/jquery.cookie.js') }}"></script>
         <script>
             $(document).ready(function() {
                 if ($.cookie("cookie_notification") === undefined) {

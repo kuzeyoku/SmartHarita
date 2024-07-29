@@ -14,5 +14,6 @@ return [
     "txt12" => "Gönder",
     "send_success" => "Mesajınız Başarıyla Gönderildi",
     "send_error" => "Mesajınız gönderilirken bir hata oluştu",
-    "notify_error" => "İletişim sayfasından mail gönderme sırasında hata meydana geldi",
+    "required" => "Bu alan zorunludur",
+    "form_recaptcha" => "Robot doğrulaması başarısız oldu",
 ];

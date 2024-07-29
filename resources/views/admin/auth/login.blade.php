@@ -115,7 +115,7 @@
     <script src="{{ themeAsset('admin', 'plugins/sweetalert/sweetalert2.all.min.js') }}"></script>
     @include(themeView('admin', 'layout.alert'))
     <script src="{{ themeAsset('admin', 'js/script.js') }}"></script>
-    @if (config('setting.recaptcha.status') == App\Enums\StatusEnum::Active->value)
+    @if (settings('integration.recaptcha_status') == App\Enums\StatusEnum::Active->value)
         <script src="https://www.google.com/recaptcha/api.js"></script>
         <script>
             function onSubmit(token) {

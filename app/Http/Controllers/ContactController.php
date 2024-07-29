@@ -4,9 +4,10 @@ namespace App\Http\Controllers;
 
 use App\Models\Message;
 use App\Enums\StatusEnum;
+use App\Http\Controllers\Admin\LogController;
 use Illuminate\Support\Facades\Mail;
 use App\Http\Requests\ContactRequest;
-use App\Notifications\AdminNotification;
+use App\Services\Admin\SettingService;
 
 class ContactController extends Controller
 {
@@ -24,15 +25,6 @@ class ContactController extends Controller
                 ->withError(__("front/general.recaptcha_error"));
         }
         try {
-            Mail::to(settings("contact.email"))
-                ->send(new \App\Mail\Contact($request));
-        } catch (\Exception $e) {
-            $admins = \App\Models\User::where("role", "admin")->get();
-            $admins->each(function ($admin) use ($e) {
-                $admin->notify(new AdminNotification("error", __("front/contact.notify_error"), $e->getMessage()));
-            });
-        }
-        try {
             Message::create([
                 "name" => $request->name,
                 "phone" => $request->phone,
@@ -42,13 +34,23 @@ class ContactController extends Controller
                 "status" => StatusEnum::Unread->value,
                 "ip" => $request->ip(),
                 "user_agent" => $request->userAgent(),
+                //"consent" => $request->terms
             ]);
             return back()
                 ->withSuccess(__("front/contact.send_success"));
         } catch (\Exception $e) {
+            LogController::logger("error", $e->getMessage());
             return back()
                 ->withInput()
                 ->withError(__("front/contact.send_error"));
+        } finally {
+            try {
+                SettingService::setEmailSettings();
+                Mail::to(settings("contact.email"))
+                    ->send(new \App\Mail\Contact($request));
+            } catch (\Exception $e) {
+                LogController::logger("error", $e->getMessage());
+            }
         }
     }
 }

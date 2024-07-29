@@ -156,9 +156,6 @@
                     }, {
                         name: "{{ __('admin/home.unique_visits') }}",
                         data: {{ json_encode($visits['chart']['uniqueVisits']) }}
-                    }, {
-                        name: "{{ __('admin/home.page_views') }}",
-                        data: {{ json_encode($visits['chart']['pageViews']) }}
                     }],
                     xaxis: {
                         labels: {

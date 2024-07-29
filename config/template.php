@@ -8,4 +8,7 @@ return [
         "view" => "admin",
         "asset" => "admin"
     ],
+    "common" => [
+        "asset" => "common"
+    ]
 ];
