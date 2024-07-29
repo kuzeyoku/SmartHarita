@@ -9,6 +9,7 @@ use App\Services\Admin\ProjectService;
 use App\Http\Requests\Project\ImageProjectRequest;
 use App\Http\Requests\Project\StoreProjectRequest;
 use App\Http\Requests\Project\UpdateProjectRequest;
+use Illuminate\View\View;
 use Spatie\MediaLibrary\MediaCollections\Models\Media;
 
 class ProjectController extends Controller
@@ -18,7 +19,7 @@ class ProjectController extends Controller
     public function __construct(ProjectService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             "categories" => $this->service->getCategories(),
             "route" => $this->service->route(),
             "folder" => $this->service->folder(),

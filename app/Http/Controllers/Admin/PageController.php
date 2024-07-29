@@ -4,10 +4,11 @@ namespace App\Http\Controllers\Admin;
 
 use Throwable;
 use App\Models\Page;
+use Illuminate\View\View;
+use Illuminate\Http\Request;
 use App\Services\Admin\PageService;
 use App\Http\Requests\Page\StorePageRequest;
 use App\Http\Requests\Page\UpdatePageRequest;
-use Illuminate\Http\Request;
 
 class PageController extends Controller
 {
@@ -16,7 +17,7 @@ class PageController extends Controller
     public function __construct(PageService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             'route' => $this->service->route(),
             'folder' => $this->service->folder()
         ]);

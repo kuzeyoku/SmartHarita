@@ -6,6 +6,7 @@ use Throwable;
 use App\Models\Message;
 use App\Services\Admin\MessageService;
 use App\Http\Requests\Message\ReplyMessageRequest;
+use Illuminate\View\View;
 
 class MessageController extends Controller
 {
@@ -14,7 +15,7 @@ class MessageController extends Controller
     public function __construct(MessageService $messageService)
     {
         $this->service = $messageService;
-        view()->share([
+        View::share([
             "route" => $this->service->route(),
             "folder" => $this->service->folder()
         ]);

@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Admin;
 use Throwable;
 use App\Models\Blog;
 use App\Enums\StatusEnum;
+use Illuminate\View\View;
 use App\Models\BlogComment;
 use Illuminate\Http\Request;
 use App\Services\Admin\BlogService;
@@ -18,7 +19,7 @@ class BlogController extends Controller
     public function __construct(BlogService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             "categories" => $this->service->getCategories(),
             "route" => $this->service->route(),
             "folder" => $this->service->folder(),

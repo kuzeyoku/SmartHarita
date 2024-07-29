@@ -8,6 +8,7 @@ use Illuminate\Http\Request;
 use App\Services\Admin\PopupService;
 use App\Http\Requests\Popup\StorePopupRequest;
 use App\Http\Requests\Popup\UpdatePopupRequest;
+use Illuminate\View\View;
 
 class PopupController extends Controller
 {
@@ -16,7 +17,7 @@ class PopupController extends Controller
     public function __construct(PopupService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             "route" => $this->service->route(),
             "folder" => $this->service->folder(),
             "module" => $this->service->module()

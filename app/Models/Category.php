@@ -2,7 +2,6 @@
 
 namespace App\Models;
 
-use App\Enums\ModuleEnum;
 use App\Enums\StatusEnum;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
@@ -26,7 +25,7 @@ class Category extends Model
     public function __construct()
     {
         parent::__construct();
-        $this->locale = session()->get("locale");
+        $this->locale = session("locale");
     }
 
     public function scopeActive($query)

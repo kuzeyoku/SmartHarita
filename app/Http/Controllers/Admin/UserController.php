@@ -10,6 +10,7 @@ use App\Http\Controllers\Controller;
 use App\Http\Requests\User\UserStoreRequest;
 use App\Http\Requests\User\UserUpdateRequest;
 use App\Http\Controllers\Admin\LogController;
+use Illuminate\View\View;
 
 class UserController extends Controller
 {
@@ -18,7 +19,7 @@ class UserController extends Controller
     public function __construct(UserService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             "route" => $this->service->route(),
             "folder" => $this->service->folder(),
             "roles" => UserRole::getSelectArray(),

@@ -8,6 +8,7 @@ use Illuminate\Http\Request;
 use App\Services\Admin\ReferenceService;
 use App\Http\Requests\Reference\StoreReferenceRequest;
 use App\Http\Requests\Reference\UpdateReferenceRequest;
+use Illuminate\View\View;
 
 class ReferenceController extends Controller
 {
@@ -16,7 +17,7 @@ class ReferenceController extends Controller
     public function __construct(ReferenceService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             'route' => $this->service->route(),
             'folder' => $this->service->folder(),
             "module" => $this->service->module()

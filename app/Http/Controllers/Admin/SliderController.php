@@ -8,6 +8,7 @@ use Illuminate\Http\Request;
 use App\Services\Admin\SliderService;
 use App\Http\Requests\Slider\StoreSliderRequest;
 use App\Http\Requests\Slider\UpdateSliderRequest;
+use Illuminate\View\View;
 
 class SliderController extends Controller
 {
@@ -16,7 +17,7 @@ class SliderController extends Controller
     public function __construct(SliderService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             "route" => $this->service->route(),
             "folder" => $this->service->folder(),
             "module" => $this->service->module()

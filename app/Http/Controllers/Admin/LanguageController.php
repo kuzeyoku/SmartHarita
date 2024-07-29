@@ -8,6 +8,7 @@ use App\Services\Admin\LanguageService;
 use App\Http\Requests\Language\StoreLanguageRequest;
 use App\Http\Requests\Language\UpdateLanguageRequest;
 use Illuminate\Http\Request;
+use Illuminate\View\View;
 
 class LanguageController extends Controller
 {
@@ -16,7 +17,7 @@ class LanguageController extends Controller
     public function __construct(LanguageService $languageService)
     {
         $this->service = $languageService;
-        view()->share([
+        View::share([
             'route' => $this->service->route(),
             'folder' => $this->service->folder()
         ]);

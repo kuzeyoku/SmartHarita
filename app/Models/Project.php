@@ -30,7 +30,7 @@ class Project extends Model implements HasMedia
     public function __construct()
     {
         parent::__construct();
-        $this->locale = session()->get("locale");
+        $this->locale = session("locale");
     }
 
     public function scopeActive($query)
@@ -127,7 +127,7 @@ class Project extends Model implements HasMedia
     {
         parent::boot();
         static::creating(function ($model) {
-            $model->slug = Str::slug(request()->title[app()->getFallbackLocale()]);
+            $model->slug = Str::slug(request("title." . app()->getFallbackLocale()));
         });
     }
 }

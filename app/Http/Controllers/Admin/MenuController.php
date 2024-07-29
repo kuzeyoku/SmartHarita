@@ -8,6 +8,7 @@ use App\Services\Admin\MenuService;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Menu\StoreMenuRequest;
 use App\Http\Requests\Menu\UpdateMenuRequest;
+use Illuminate\View\View;
 
 class MenuController extends Controller
 {
@@ -16,7 +17,7 @@ class MenuController extends Controller
     public function __construct(MenuService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             'route' => $this->service->route(),
             'folder' => $this->service->folder()
         ]);

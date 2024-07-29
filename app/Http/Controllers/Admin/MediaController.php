@@ -4,13 +4,14 @@ namespace App\Http\Controllers\Admin;
 
 use App\Enums\ModuleEnum;
 use App\Http\Controllers\Controller;
+use Illuminate\View\View;
 use Spatie\MediaLibrary\MediaCollections\Models\Media;
 
 class MediaController extends Controller
 {
     public function __construct()
     {
-        view()->share([
+        View::share([
             "route" => ModuleEnum::Media->route(),
             "folder" => ModuleEnum::Media->folder(),
         ]);

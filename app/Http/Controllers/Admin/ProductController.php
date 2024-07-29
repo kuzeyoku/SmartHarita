@@ -9,6 +9,7 @@ use App\Services\Admin\ProductService;
 use App\Http\Requests\Product\ImageProductRequest;
 use App\Http\Requests\Product\StoreProductRequest;
 use App\Http\Requests\Product\UpdateProductRequest;
+use Illuminate\View\View;
 use Spatie\MediaLibrary\MediaCollections\Models\Media;
 
 class ProductController extends Controller
@@ -18,7 +19,7 @@ class ProductController extends Controller
     public function __construct(ProductService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             "categories" => $this->service->getCategories(),
             "route" => $this->service->route(),
             "folder" => $this->service->folder(),

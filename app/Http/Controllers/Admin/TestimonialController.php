@@ -8,6 +8,7 @@ use Illuminate\Http\Request;
 use App\Services\Admin\TestimonialService;
 use App\Http\Requests\Testimonial\StoreTestimonialRequest;
 use App\Http\Requests\Testimonial\UpdateTestimonialRequest;
+use Illuminate\View\View;
 
 class TestimonialController extends Controller
 {
@@ -16,7 +17,7 @@ class TestimonialController extends Controller
     public function __construct(TestimonialService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             "route" => $this->service->route(),
             "folder" => $this->service->folder()
         ]);

@@ -9,6 +9,7 @@ use Illuminate\Http\Request;
 use App\Services\Admin\ServiceService;
 use App\Http\Requests\Service\StoreServiceRequest;
 use App\Http\Requests\Service\UpdateServiceRequest;
+use Illuminate\View\View;
 
 class ServiceController extends Controller
 {
@@ -17,7 +18,7 @@ class ServiceController extends Controller
     public function __construct(ServiceService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             "categories" => $this->service->getCategories(ModuleEnum::Service),
             "route" => $this->service->route(),
             "folder" => $this->service->folder(),

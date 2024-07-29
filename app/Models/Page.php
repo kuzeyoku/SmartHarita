@@ -25,7 +25,7 @@ class Page extends Model
     public function __construct()
     {
         parent::__construct();
-        $this->locale = session()->get("locale");
+        $this->locale = session("locale");
     }
 
     public function scopeActive($query)
@@ -77,7 +77,7 @@ class Page extends Model
     {
         parent::boot();
         static::creating(function ($model) {
-            $model->slug = Str::slug(request()->title[app()->getFallbackLocale()]);
+            $model->slug = Str::slug(request("title." . app()->getFallbackLocale()));
         });
     }
 }

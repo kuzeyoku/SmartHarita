@@ -6,6 +6,7 @@ use App\Enums\SettingCategoryEnum;
 use Throwable;
 use Illuminate\Http\Request;
 use App\Services\Admin\SettingService;
+use Illuminate\View\View;
 
 class SettingController extends Controller
 {
@@ -14,7 +15,7 @@ class SettingController extends Controller
     public function __construct(SettingService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             "route" => $this->service->route(),
             "folder" => $this->service->folder(),
             "service" => $service
@@ -23,8 +24,8 @@ class SettingController extends Controller
 
     public function index()
     {
-        if (SettingCategoryEnum::has(request()->category)) {
-            return view(themeView("admin", "setting." . request()->category));
+        if (SettingCategoryEnum::has(request("category"))) {
+            return view(themeView("admin", "setting." . request("category")));
         } else {
             abort("404");
         }

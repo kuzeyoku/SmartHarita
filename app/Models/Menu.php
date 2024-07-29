@@ -25,7 +25,7 @@ class Menu extends Model
     public function __construct()
     {
         parent::__construct();
-        $this->locale = session()->get("locale");
+        $this->locale = session("locale");
     }
 
     public function translate()

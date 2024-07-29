@@ -9,6 +9,7 @@ use Illuminate\Http\Request;
 use App\Services\Admin\CategoryService;
 use App\Http\Requests\Category\StoreCategoryRequest;
 use App\Http\Requests\Category\UpdateCategoryRequest;
+use Illuminate\View\View;
 
 class CategoryController extends Controller
 {
@@ -19,7 +20,7 @@ class CategoryController extends Controller
     {
         $this->service = $service;
         $this->modules = ModuleEnum::toSelectArray();
-        view()->share([
+        View::share([
             "categories" => $this->service->getCategories(),
             "modules" => $this->modules,
             "route" => $this->service->route(),

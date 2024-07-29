@@ -3,17 +3,17 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Models\User;
-use App\Enums\StatusEnum;
+use Illuminate\View\View;
 use Illuminate\Support\Str;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 use App\Http\Requests\Auth\LoginRequest;
+use App\Notifications\AdminNotification;
 use Illuminate\Support\Facades\Password;
 use Illuminate\Auth\Events\PasswordReset;
 use App\Http\Requests\Auth\ForgotPasswordRequest;
-use App\Notifications\AdminNotification;
 
 class AuthController extends Controller
 {
@@ -24,7 +24,7 @@ class AuthController extends Controller
     {
         $this->route = "auth";
         $this->folder = "auth";
-        view()->share([
+        View::share([
             "route" => $this->route,
             "folder" => $this->folder
         ]);
@@ -40,7 +40,7 @@ class AuthController extends Controller
 
     public function authenticate(LoginRequest $request)
     {
-        if (!$this->recaptcha($request)) {
+        if (!recaptcha($request)) {
             return back()
                 ->withInput()
                 ->withError(__("admin/{$this->folder}.recaptcha_error"));
@@ -48,7 +48,7 @@ class AuthController extends Controller
         if (Auth::attempt($request->only("email", "password"))) {
             $request->session()->regenerate();
             $user = User::where("email", $request->email)->first();
-            $user->notify(new AdminNotification("success", $user->name . " Tarafından Giriş Yapıldı", "IP : " . request()->ip()));
+            $user->notify(new AdminNotification("success", $user->name . " Tarafından Giriş Yapıldı", "IP : " . $request->ip()));
             $message = [
                 "title" => __("admin/{$this->folder}.login_success_title", ["name" => Auth::user()->name]),
                 "message" => __("admin/{$this->folder}.login_success_message")
@@ -58,8 +58,8 @@ class AuthController extends Controller
                 ->withSuccess($message);
         }
         $user = User::where("role", "admin")->get();
-        $user->each(function ($item) {
-            $item->notify(new AdminNotification("danger", "Başarısız Giriş Denemesi", "IP: " . request()->ip() . " - Email: " . request()->email, ""));
+        $user->each(function ($item) use ($request) {
+            $item->notify(new AdminNotification("danger", "Başarısız Giriş Denemesi", "IP: " . $request->ip() . " - Email: " . $request->email, ""));
         });
         return back()
             ->withInput()
@@ -73,7 +73,7 @@ class AuthController extends Controller
 
     public function forgot_password(ForgotPasswordRequest $request)
     {
-        if (!$this->recaptcha($request)) {
+        if (!recaptcha($request)) {
             return back()
                 ->withInput()
                 ->withError(__("admin/{$this->folder}.recaptcha_error"));
@@ -82,9 +82,9 @@ class AuthController extends Controller
         return $status === Password::RESET_LINK_SENT ? redirect()->route("admin.auth.login")->withSuccess(__($status)) : back()->withInput()->withError(__($status));
     }
 
-    public function reset_password_view()
+    public function reset_password_view(Request $request)
     {
-        $token = request()->route("token");
+        $token = $request->route("token");
         return view(themeView("admin", "{$this->folder}.reset_password"), compact("token"));
     }
 
@@ -125,20 +125,5 @@ class AuthController extends Controller
         return redirect()
             ->route("admin.{$this->route}.login")
             ->withSuccess(__("admin/{$this->folder}.logout_success"));
-    }
-
-    protected function recaptcha($request)
-    {
-        if (settings("recaptcha.status") === StatusEnum::Active->value) {
-            $response = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . settings("recaptcha.secret_key") . '&response=' . $request->{"g-recaptcha-response"});
-
-            if (($recaptcha = json_decode($response)) && $recaptcha->success && $recaptcha->score >= 0.5) {
-                return true;
-            }
-
-            return false;
-        }
-
-        return true;
     }
 }

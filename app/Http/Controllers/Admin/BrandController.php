@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use Throwable;
 use App\Models\Brand;
+use Illuminate\View\View;
 use Illuminate\Http\Request;
 use App\Services\Admin\BrandService;
 use App\Http\Requests\Brand\StoreBrandRequest;
@@ -16,7 +17,7 @@ class BrandController extends Controller
     public function __construct(BrandService $service)
     {
         $this->service = $service;
-        view()->share([
+        View::share([
             "route" => $this->service->route(),
             "folder" => $this->service->folder()
         ]);
