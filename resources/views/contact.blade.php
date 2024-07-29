@@ -68,8 +68,6 @@
                 <div class="contact-map-area-fluid">
                     <iframe class="contact-map" src="{{ settings('contact.map') }}" style="border:0;" allowfullscreen=""
                         loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    <img class="location" src="{{ themeAsset('front', 'images/contact/shape/location.svg') }}"
-                        alt="Business_map">
                 </div>
             </div>
         </div>
