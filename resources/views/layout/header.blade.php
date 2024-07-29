@@ -10,6 +10,12 @@
                                     {{ settings('contact.email') }}</a>
                             </div>
                         @endif
+                        @if (settings('contact.phone'))
+                            <div class="phone">
+                                <a href="tel:{{ settings('contact.phone') }}"><i class="fal fa-phone"></i>
+                                    {{ settings('contact.phone') }}</a>
+                            </div>
+                        @endif
                     </div>
                 </div>
                 <div class="col-lg-6 d-xl-block d-none">
