@@ -37,7 +37,7 @@
     <div class="header-main-one bg-white">
         <div class="container">
             <div class="row">
-                <div class="col-xl-3 col-lg-4 col-md-4 col-sm-4 col-4">
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-4">
                     <div class="thumbnail">
                         <a href='{{ route('home') }}'>
                             <img src="{{ $themeAsset->logo_dark }}" alt="{{ settings('general.title') }}">
