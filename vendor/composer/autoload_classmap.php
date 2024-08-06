@@ -145,8 +145,6 @@ return array(
     'App\\Providers\\BroadcastServiceProvider' => $baseDir . '/app/Providers/BroadcastServiceProvider.php',
     'App\\Providers\\CookieProvider' => $baseDir . '/app/Providers/CookieProvider.php',
     'App\\Providers\\EventServiceProvider' => $baseDir . '/app/Providers/EventServiceProvider.php',
-    'App\\Providers\\MailSettingProvider' => $baseDir . '/app/Providers/MailSettingProvider.php',
-    'App\\Providers\\MenuProvider' => $baseDir . '/app/Providers/MenuProvider.php',
     'App\\Providers\\PopupProvider' => $baseDir . '/app/Providers/PopupProvider.php',
     'App\\Providers\\RouteServiceProvider' => $baseDir . '/app/Providers/RouteServiceProvider.php',
     'App\\Providers\\ThemeProvider' => $baseDir . '/app/Providers/ThemeProvider.php',

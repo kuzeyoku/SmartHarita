@@ -42,6 +42,7 @@
     <script src="{{ themeAsset('front', 'js/swiper.js') }}"></script>
     <script src="{{ themeAsset('front', 'js/counterup.js') }}"></script>
     <script src="{{ themeAsset('front', 'js/sal.min.js') }}"></script>
+    <script src="{{ themeAsset('front', 'js/bootstrap.min.js') }}"></script>
     <script src="{{ themeAsset('front', 'js/waw.js') }}"></script>
     <script src="{{ themeAsset('front', 'js/main.js') }}"></script>
     <script src="{{ themeAsset('common', 'js/jquery.cookie.js') }}"></script>

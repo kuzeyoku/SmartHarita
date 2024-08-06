@@ -845,8 +845,6 @@ class ComposerStaticInitda2fe012cf681928ca2e4fa3093d2e2a
         'App\\Providers\\BroadcastServiceProvider' => __DIR__ . '/../..' . '/app/Providers/BroadcastServiceProvider.php',
         'App\\Providers\\CookieProvider' => __DIR__ . '/../..' . '/app/Providers/CookieProvider.php',
         'App\\Providers\\EventServiceProvider' => __DIR__ . '/../..' . '/app/Providers/EventServiceProvider.php',
-        'App\\Providers\\MailSettingProvider' => __DIR__ . '/../..' . '/app/Providers/MailSettingProvider.php',
-        'App\\Providers\\MenuProvider' => __DIR__ . '/../..' . '/app/Providers/MenuProvider.php',
         'App\\Providers\\PopupProvider' => __DIR__ . '/../..' . '/app/Providers/PopupProvider.php',
         'App\\Providers\\RouteServiceProvider' => __DIR__ . '/../..' . '/app/Providers/RouteServiceProvider.php',
         'App\\Providers\\ThemeProvider' => __DIR__ . '/../..' . '/app/Providers/ThemeProvider.php',
