@@ -80,7 +80,7 @@
 <div id="side-bar" class="side-bar">
     <button class="close-icon-menu"><i class="far fa-times"></i></button>
     <div class="rts-sidebar-menu-desktop">
-        <a class='logo-1' href='{{ route('home') }}'><img class="logo" src="{{ $themeAsset->logo_light }}"
+        <a class='logo-1' href='{{ route('home') }}'><img class="logo" src="{{ $themeAsset->logo_dark }}"
                 alt="finbiz_logo"></a>
         <div class="body d-none d-xl-block">
             <p class="disc">
